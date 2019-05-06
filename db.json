@@ -1,0 +1,111 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "¿Qué son los verbos?",
+      "correct_answer": "Expresan o indican acciones",
+      "incorrect_answers": [
+        "Es todo lo que se puede ver o tocar",
+        "Apodos",
+        "Animales"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "¿Qué es un adjetivo?",
+      "correct_answer": "Describe cómo es algo",
+      "incorrect_answers": [
+        "una comida",
+        "indica acciones",
+        "una comida"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "Correr es un...",
+      "correct_answer": "Verbo",
+      "incorrect_answers": [
+        "Adjetivo",
+        "Castigo",
+        "Sustantivo"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "Flaco es un...",
+      "correct_answer": "Adjetivo",
+      "incorrect_answers": [
+        "Verbo",
+        "Sustantivo",
+        "Ninguna de las anteriores"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "Vaca es un...",
+      "correct_answer": "Sustantivo común",
+      "incorrect_answers": [
+        "Verbo",
+        "Adjetivo",
+        "Ninguna de las anteriores"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "Julieta es un...",
+      "correct_answer": "Sustantivo propio",
+      "incorrect_answers": [
+        "Adjetivo",
+        "Verbo",
+        "Ninguna de las anteriores"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "El género de un sustantivo",
+      "correct_answer": "Puede ser femenino o masculino",
+      "incorrect_answers": [
+        "Singular",
+        "Plural",
+        "Ninguna de las anteriores"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "multiple",
+      "difficulty": "fácil",
+      "question": "El número de un sustantivo",
+      "correct_answer": "Puede ser singular o plural",
+      "incorrect_answers": [
+        "Es femenino o mascuino",
+        "Es un verbo",
+        "Ninguna de las anteriores"
+      ]
+    },
+    {
+      "category": "Prácticas del lenguaje",
+      "type": "boolean",
+      "difficulty": "fácil",
+      "question": "cómo se separa en sílabas estruendo",
+      "correct_answer": "es-truen-do",
+      "incorrect_answers": [
+        "estruen-do"
+      ]
+    }
+  ]
+}
